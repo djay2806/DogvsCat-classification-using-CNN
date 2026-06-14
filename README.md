@@ -36,7 +36,7 @@ Streamlit
 
 1.Clone the Repository
 Bash
-git clone https://github.com/your-username/dog-cat-classification.git
+git clone https://github.com/djay2806/dog-cat-classification.git
 cd dog-cat-classification
 
 2.Install Dependencies
